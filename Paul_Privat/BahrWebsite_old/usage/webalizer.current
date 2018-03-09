@@ -1,0 +1,1050 @@
+# Webalizer V2.23-08 Incremental Data - 02/06/2018 22:43:27
+2018 2 6 22 43 27
+680 485 184 27 18 67 4107459 358 272 0 0 0
+39 8 41 1 6
+106 75 706919 40 58 42 0 0
+162 99 1112037 40 64 48 0 0
+86 64 228781 49 58 44 0 0
+80 55 86106 36 60 46 0 0
+149 123 1832955 35 53 41 0 0
+97 69 140661 39 65 52 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+32 19 89896 22 0 0
+17 12 27898 13 0 0
+19 16 47863 10 0 0
+11 11 74570 8 0 0
+70 60 576086 28 0 0
+8 3 2423 4 0 0
+13 10 7465 9 0 0
+10 9 6814 10 0 0
+17 17 13882 14 0 0
+17 12 15598 17 0 0
+10 8 76637 4 0 0
+56 37 234942 20 0 0
+57 28 537287 14 0 0
+51 37 541718 21 0 0
+47 26 22969 31 0 0
+43 32 537104 14 0 0
+14 11 8946 10 0 0
+32 23 83467 22 0 0
+21 12 10929 13 0 0
+37 28 533682 13 0 0
+43 40 612639 18 0 0
+19 16 27251 16 0 0
+13 4 5206 13 0 0
+23 14 12187 14 0 0
+0
+0
+0
+485
+0
+0
+0
+0
+0
+6
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+120
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+67
+0
+0
+0
+0
+0
+# -urls- 
+/INTRO/intro.htm
+0 36 0 90438 15 8 0 0
+/INTRO/introdaten/5.jpg
+1 6 0 309774 0 0 0 0
+/INTRO/introdaten/4.jpg
+1 6 0 632634 0 0 0 0
+/INTRO/introdaten/stylesheet_003.css
+1 30 0 38964 0 0 0 0
+/bahr/plugins/meta_tags/css/stylesheet.css
+1 1 0 72 0 0 0 0
+/INTRO/introdaten/core.css
+1 26 0 23805 0 0 0 0
+/bahr/templates/bahrandbahr/stylesheet.css
+1 1 0 2328 0 0 0 0
+/INTRO/introdaten/l2button.png
+1 6 0 3078 0 0 0 0
+/bahr/slider/basic.css
+1 1 0 802 0 0 0 0
+/INTRO/introdaten/stylesheet.css
+1 27 0 28914 0 0 0 0
+/bahr/plugins/page_params/css/stylesheet.css
+1 1 0 54 0 0 0 0
+/bahr/css/core.css
+1 1 0 585 0 0 0 0
+/INTRO/introdaten/l2button_hover.png
+1 6 0 6690 0 0 0 0
+/INTRO/introdaten/s3Slider.js
+1 7 0 6461 0 0 0 0
+/INTRO/introdaten/basic.css
+1 28 0 16290 0 0 0 0
+/INTRO/introdaten/1.jpg
+1 6 0 498030 0 0 0 0
+/INTRO/introdaten/3.jpg
+1 6 0 420066 0 0 0 0
+/INTRO/introdaten/topbar.png
+1 6 0 1686 0 0 0 0
+/INTRO/introdaten/bg.png
+1 12 0 6012 0 0 0 0
+/bahr/plugins/pluginloader/css/stylesheet.css
+1 1 0 762 0 0 0 0
+/INTRO/introdaten/logoneu.jpg
+1 6 0 165540 0 0 0 0
+/
+0 238 0 194566 219 89 0 0
+/INTRO/introdaten/jquery.js
+1 7 0 212331 0 0 0 0
+/INTRO/introdaten/logobigg.jpg
+1 14 0 912954 0 0 0 0
+/bahr/slider/logobahr.jpg
+1 6 0 94554 0 0 0 0
+/INTRO/introdaten/2.jpg
+1 6 0 414600 0 0 0 0
+/bahr/templates/bahrandbahr/includes/nav1.css
+1 1 0 817 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+74.115.214.139
+0 1 1 0 1 1517518501 0 0
+/
+5-45-207-22.spider.yandex.com
+0 1 1 754 1 1517953207 0 0
+/
+74.115.214.138
+0 1 1 0 1 1517639297 0 0
+/
+pd9faaa6f.dip0.t-ipconnect.de
+0 2 2 2828 1 1517456311 0 0
+/INTRO/intro.htm
+141-8-142-121.spider.yandex.com
+0 1 1 754 1 1517767254 0 0
+/
+37-9-113-83.spider.yandex.com
+0 2 2 1508 2 1517924345 0 0
+/
+msnbot-131-253-27-132.search.msn.com
+0 1 1 501 0 0 0 0
+-
+msnbot-157-55-39-168.search.msn.com
+0 1 1 754 1 1517844750 0 0
+/
+msnbot-207-46-13-18.search.msn.com
+0 1 0 20 1 1517528220 0 0
+-
+141-8-142-75.spider.yandex.com
+0 1 1 754 1 1517939656 0 0
+/
+37-9-113-162.spider.yandex.com
+0 3 3 2922 2 1517924473 0 0
+/
+37-9-113-197.spider.yandex.com
+0 1 1 754 1 1517755851 0 0
+/
+msnbot-157-55-39-140.search.msn.com
+0 2 2 1432 0 0 0 0
+-
+141-8-142-34.spider.yandex.com
+0 2 2 2168 2 1517755866 0 0
+/
+msnbot-157-55-39-81.search.msn.com
+0 1 1 754 1 1517862231 0 0
+/
+5-45-207-2.spider.yandex.com
+0 1 1 754 1 1517755763 0 0
+/
+217.147.169.238
+0 3 3 2262 1 1517754547 0 0
+/
+17-142-157-157.applebot.apple.com
+0 1 1 754 1 1517731353 0 0
+/
+msnbot-157-55-39-122.search.msn.com
+0 3 2 1528 3 1517949330 0 0
+/
+msnbot-199-30-24-31.search.msn.com
+0 1 1 2686 0 0 0 0
+-
+msnbot-157-55-39-69.search.msn.com
+0 1 1 754 1 1517444118 0 0
+/
+researchscan21.comsys.rwth-aachen.de
+0 2 2 1508 1 1517837458 0 0
+/
+74.115.214.130
+0 1 1 0 1 1517463905 0 0
+/
+pd9faac7f.dip0.t-ipconnect.de
+0 6 6 5184 6 1517889980 0 0
+/INTRO/intro.htm
+msnbot-131-253-27-133.search.msn.com
+0 1 1 2686 0 0 0 0
+-
+ns3061207.ip-193-70-34.eu
+0 1 0 194 1 1517881914 0 0
+-
+msnbot-131-253-25-179.search.msn.com
+0 1 1 65211 0 0 0 0
+-
+45.55.160.69
+0 3 2 2188 1 1517459281 0 0
+-
+crawl-66-249-64-91.googlebot.com
+0 1 1 754 1 1517541061 0 0
+/
+37-9-113-80.spider.yandex.com
+0 2 2 1508 2 1517939423 0 0
+/
+dslb-178-002-156-150.178.002.pools.vodafone-ip.de
+0 1 1 1414 1 1517542370 0 0
+/INTRO/intro.htm
+crawl-66-249-69-130.googlebot.com
+0 2 2 834 0 0 0 0
+-
+msnbot-207-46-13-57.search.msn.com
+0 3 3 2270 2 1517715643 0 0
+/
+37-9-113-104.spider.yandex.com
+0 1 1 754 1 1517591700 0 0
+/
+nugura.cs.usyd.edu.au
+0 7 7 5278 7 1517936200 0 0
+/
+5-45-207-54.spider.yandex.com
+0 2 2 1508 1 1517924487 0 0
+/
+crawl-66-249-69-134.googlebot.com
+0 2 2 2382 0 0 0 0
+-
+msnbot-157-55-39-149.search.msn.com
+0 1 1 754 1 1517492508 0 0
+/
+static.66.30.201.138.clients.your-server.de
+0 12 12 29660 2 1517880802 0 0
+/INTRO/intro.htm
+ip-109-40-131-86.web.vodafone.de
+0 7 7 69245 1 1517517055 0 0
+/
+p54baa79d.dip0.t-ipconnect.de
+0 9 0 1759 1 1517749241 0 0
+-
+static.123.191.251.148.clients.your-server.de
+0 2 2 2168 1 1517644550 0 0
+/INTRO/intro.htm
+msnbot-199-30-25-63.search.msn.com
+0 1 1 2152 0 0 0 0
+-
+researchscan19.comsys.rwth-aachen.de
+0 1 1 754 1 1517806384 0 0
+/
+msnbot-199-30-24-193.search.msn.com
+0 6 6 68491 0 0 0 0
+-
+pacino.aserv.co.za
+0 1 0 181 1 1517703353 0 0
+/
+x55b27950.dyn.telefonica.de
+0 23 20 526588 1 1517860912 0 0
+-
+74.115.214.133
+0 1 1 0 1 1517590890 0 0
+/
+msnbot-207-46-13-168.search.msn.com
+0 2 2 1432 0 0 0 0
+-
+msnbot-207-46-13-165.search.msn.com
+0 2 2 1516 1 1517890899 0 0
+/
+ec2-13-56-229-65.us-west-1.compute.amazonaws.com
+0 12 12 9048 12 1517935695 0 0
+/
+141-8-142-214.spider.yandex.com
+0 2 2 1508 2 1517656756 0 0
+/
+5-45-207-75.spider.yandex.com
+0 3 3 2262 3 1517777919 0 0
+/
+msnbot-40-77-167-41.search.msn.com
+0 2 2 1347 0 0 0 0
+-
+69.58.178.58
+0 2 2 6638 1 1517688857 0 0
+/INTRO/intro.htm
+crawl-66-249-64-19.googlebot.com
+0 5 5 3166 1 1517539654 0 0
+/
+static.132.145.9.5.clients.your-server.de
+0 1 1 1630 1 1517630813 0 0
+/
+88.220.36.218
+0 1 1 754 1 1517452844 0 0
+/
+msnbot-131-253-25-176.search.msn.com
+0 1 1 2304 0 0 0 0
+-
+msnbot-207-46-13-152.search.msn.com
+0 2 2 1508 2 1517668986 0 0
+/
+crawl-66-249-69-132.googlebot.com
+0 3 3 2204 0 0 0 0
+-
+crawl-66-249-69-102.googlebot.com
+0 1 1 762 0 0 0 0
+-
+37-9-113-203.spider.yandex.com
+0 1 1 754 1 1517591621 0 0
+/
+ip5f5be0f3.dynamic.kabel-deutschland.de
+0 3 3 66917 1 1517851681 0 0
+/
+206.253.226.12
+0 2 2 3260 1 1517787858 0 0
+/
+p54baa537.dip0.t-ipconnect.de
+0 9 0 1759 1 1517597434 0 0
+-
+216.19.219.22
+0 1 1 1630 1 1517603626 0 0
+/
+crawl-66-249-69-99.googlebot.com
+0 4 3 2311 2 1517656077 0 0
+-
+msnbot-199-30-25-182.search.msn.com
+0 1 1 2686 0 0 0 0
+-
+pd9faaba8.dip0.t-ipconnect.de
+0 3 3 4242 3 1517545507 0 0
+/INTRO/intro.htm
+msnbot-207-46-13-140.search.msn.com
+0 3 2 1528 2 1517657167 0 0
+/
+crawl-66-249-79-156.googlebot.com
+0 1 1 754 1 1517670875 0 0
+/
+128.199.49.162
+0 2 2 2168 1 1517594173 0 0
+/
+rs002121.fastrootserver.de
+0 1 1 754 1 1517605268 0 0
+/
+crawl-66-249-64-18.googlebot.com
+0 5 5 3900 1 1517810965 0 0
+/
+msnbot-157-55-39-204.search.msn.com
+0 11 1 1777 5 1517753137 0 0
+-
+mails.sscnwr.org
+0 1 0 209 1 1517447207 0 0
+-
+gw.dotcom-holding.com
+0 23 22 527980 1 1517845658 0 0
+/INTRO/intro.htm
+msnbot-199-30-25-39.search.msn.com
+0 1 1 1050 0 0 0 0
+-
+crawl-66-249-69-109.googlebot.com
+0 1 1 754 1 1517658459 0 0
+/
+msnbot-207-46-13-133.search.msn.com
+0 2 2 1508 2 1517719635 0 0
+/
+msnbot-40-77-167-88.search.msn.com
+0 1 1 754 1 1517668104 0 0
+/
+crawl-66-249-64-20.googlebot.com
+0 15 11 8390 10 1517858411 0 0
+/
+crawl-66-249-69-107.googlebot.com
+0 2 2 1432 0 0 0 0
+-
+crawl16.lp.007ac9.net
+0 2 2 6638 1 1517655109 0 0
+/INTRO/intro.htm
+msnbot-131-253-27-142.search.msn.com
+0 1 1 1050 0 0 0 0
+-
+pd9e8806d.dip0.t-ipconnect.de
+0 40 8 12208 4 1517939755 0 0
+/
+178-154-200-13.spider.yandex.com
+0 1 1 1414 1 1517633013 0 0
+/INTRO/intro.htm
+87-126-68-178.ip.btc-net.bg
+0 5 0 920 0 0 0 0
+-
+74.115.214.136
+0 1 1 0 1 1517512834 0 0
+/
+static.88-198-43-207.clients.your-server.de
+0 1 1 5008 1 1517630813 0 0
+/INTRO/intro.htm
+37-9-113-199.spider.yandex.com
+0 2 2 1508 2 1517939655 0 0
+/
+5-45-207-65.spider.yandex.com
+0 3 3 2262 2 1517923773 0 0
+/
+msnbot-157-55-39-194.search.msn.com
+0 3 2 1528 2 1517905178 0 0
+/
+msnbot-157-55-39-72.search.msn.com
+0 1 0 20 1 1517844624 0 0
+-
+msnbot-199-30-24-247.search.msn.com
+0 1 1 65211 0 0 0 0
+-
+124.124.14.93
+0 1 1 754 1 1517737000 0 0
+/
+msnbot-157-55-39-43.search.msn.com
+0 1 1 754 1 1517513385 0 0
+/
+5.2.75.37
+0 1 1 1630 1 1517508442 0 0
+/
+37-9-113-86.spider.yandex.com
+0 1 1 754 1 1517591621 0 0
+/
+msnbot-157-55-39-176.search.msn.com
+0 3 3 2262 3 1517838488 0 0
+/
+crawl-66-249-64-29.googlebot.com
+0 3 3 2460 2 1517954780 0 0
+/
+msnbot-40-77-167-79.search.msn.com
+0 1 1 754 1 1517848244 0 0
+/
+msnbot-199-30-24-136.search.msn.com
+0 1 1 501 0 0 0 0
+-
+17.110.165.10
+0 1 1 754 1 1517917877 0 0
+/
+hfo-d-6091.hfo.bisping.de
+0 6 6 68744 1 1517918262 0 0
+/
+crawl-66-249-64-89.googlebot.com
+0 1 1 762 0 0 0 0
+-
+pd9faad63.dip0.t-ipconnect.de
+0 5 1 1486 1 1517799449 0 0
+/
+p549b3f91.dip0.t-ipconnect.de
+0 64 20 532538 2 1517582349 0 0
+-
+msnbot-157-55-39-148.search.msn.com
+0 4 4 3016 4 1517951254 0 0
+/
+5.139.124.148
+0 2 2 1508 2 1517714827 0 0
+/
+msnbot-131-253-27-31.search.msn.com
+0 1 1 2152 0 0 0 0
+-
+ns310333.ip-188-165-192.eu
+0 1 1 754 1 1517703327 0 0
+/
+ns309394.ip-188-165-200.eu
+0 3 3 0 2 1517770197 0 0
+/
+msnbot-40-77-167-191.search.msn.com
+0 2 2 1508 2 1517623053 0 0
+/
+crawl-66-249-64-28.googlebot.com
+0 4 4 2742 3 1517852347 0 0
+/
+p57939adc.dip0.t-ipconnect.de
+0 1 1 754 1 1517542359 0 0
+/
+104.131.20.34
+0 1 1 1630 1 1517640674 0 0
+/
+crawl-66-249-64-87.googlebot.com
+0 2 2 1339 1 1517548730 0 0
+/
+msnbot-157-55-39-56.search.msn.com
+0 7 3 2342 4 1517745934 0 0
+/
+msnbot-207-46-13-69.search.msn.com
+0 2 2 1508 2 1517475515 0 0
+/
+p5b103734.dip0.t-ipconnect.de
+0 36 27 596466 1 1517457816 0 0
+/
+msnbot-207-46-13-37.search.msn.com
+0 1 1 480 0 0 0 0
+-
+185.6.8.7
+0 6 4 13513 1 1517692973 0 0
+-
+msnbot-157-55-39-62.search.msn.com
+0 1 1 754 1 1517505373 0 0
+/
+msnbot-207-46-13-13.search.msn.com
+0 3 3 2299 0 0 0 0
+-
+crawl-66-249-75-200.googlebot.com
+0 2 1 774 1 1517659093 0 0
+-
+msnbot-207-46-13-24.search.msn.com
+0 1 1 754 1 1517510887 0 0
+/
+p54baab0f.dip0.t-ipconnect.de
+0 9 0 1759 1 1517482831 0 0
+-
+gateway.the-grand.de
+0 24 20 526608 1 1517858556 0 0
+-
+fetcher8-2.p.mail.ru
+0 1 1 754 1 1517491381 0 0
+/
+ec2-54-183-130-127.us-west-1.compute.amazonaws.com
+0 12 12 9048 12 1517925807 0 0
+/
+crawl02.lp.007ac9.net
+0 5 4 13276 2 1517794008 0 0
+/INTRO/intro.htm
+188.166.63.142
+0 3 2 2188 1 1517503603 0 0
+/
+37-9-113-121.spider.yandex.com
+0 2 2 1508 2 1517923646 0 0
+/
+msnbot-199-30-25-233.search.msn.com
+0 1 1 2304 0 0 0 0
+-
+pd9f7eab4.dip0.t-ipconnect.de
+0 7 7 69245 1 1517825342 0 0
+/
+static.246.237.251.148.clients.your-server.de
+0 2 1 1630 2 1517908710 0 0
+/
+msnbot-40-77-167-57.search.msn.com
+0 1 1 754 1 1517617518 0 0
+/
+217.147.169.249
+0 1 1 754 1 1517754268 0 0
+/
+msnbot-40-77-167-80.search.msn.com
+0 2 2 1508 2 1517765692 0 0
+/
+msnbot-157-55-39-135.search.msn.com
+0 1 1 754 1 1517584209 0 0
+/
+m1.sims.beget.ru
+0 6 0 1254 1 1517957007 0 0
+-
+msnbot-157-55-39-90.search.msn.com
+0 1 1 754 1 1517870980 0 0
+/
+38.80.27.228
+0 1 1 1630 1 1517918281 0 0
+/
+pd9faaca3.dip0.t-ipconnect.de
+0 4 3 4262 2 1517929072 0 0
+/INTRO/intro.htm
+google-proxy-66-102-6-166.google.com
+0 1 1 754 1 1517448195 0 0
+/
+cpc123792-trow7-2-0-cust17.18-1.cable.virginm.net
+0 1 1 1630 1 1517516211 0 0
+/
+static.198.153.76.144.clients.your-server.de
+0 1 1 5008 1 1517908710 0 0
+/INTRO/intro.htm
+msnbot-157-55-39-164.search.msn.com
+0 1 0 183 1 1517463854 0 0
+-
+37-9-113-78.spider.yandex.com
+0 2 2 1508 2 1517953207 0 0
+/
+141-8-183-28.spider.yandex.com
+0 2 2 1508 2 1517923767 0 0
+/
+msnbot-207-46-13-22.search.msn.com
+0 1 0 20 1 1517528221 0 0
+-
+37-9-113-176.spider.yandex.com
+0 2 2 1508 1 1517755874 0 0
+/
+37-9-113-119.spider.yandex.com
+0 2 2 2168 2 1517777897 0 0
+/
+165.227.73.114
+0 1 1 1630 1 1517630719 0 0
+/
+msnbot-157-55-39-242.search.msn.com
+0 1 0 20 1 1517845003 0 0
+-
+141-8-142-213.spider.yandex.com
+0 1 1 754 1 1517474040 0 0
+/
+msnbot-157-55-39-31.search.msn.com
+0 6 5 3601 5 1517821003 0 0
+/
+msnbot-40-77-167-68.search.msn.com
+0 6 4 32728 2 1517702864 0 0
+-
+msnbot-199-30-25-215.search.msn.com
+0 1 1 2152 0 0 0 0
+-
+141-8-142-17.spider.yandex.com
+0 1 1 754 1 1517939424 0 0
+/
+webapi.address-base.de
+0 1 1 754 1 1517644550 0 0
+/
+google-proxy-66-102-6-85.google.com
+0 1 1 754 1 1517448203 0 0
+/
+crawl-66-249-64-21.googlebot.com
+0 7 6 4560 5 1517905025 0 0
+/
+msnbot-157-55-39-34.search.msn.com
+0 1 1 585 0 0 0 0
+-
+217.147.169.217
+0 1 1 754 1 1517739082 0 0
+/
+p549b3e21.dip0.t-ipconnect.de
+0 21 20 526548 1 1517577139 0 0
+/INTRO/intro.htm
+msnbot-199-30-25-78.search.msn.com
+0 1 1 1630 1 1517519016 0 0
+/
+static.157.89.243.136.clients.your-server.de
+0 6 6 14830 1 1517720064 0 0
+/INTRO/intro.htm
+msnbot-207-46-13-2.search.msn.com
+0 1 1 480 0 0 0 0
+-
+jobqueue-listener.jobqueue.netcraft.com-u9dcc3b0b8072492e818f9f573de4f1b6u-digitalocean-2gb
+0 2 2 3260 2 1517641643 0 0
+/
+crawl-66-249-64-1.googlebot.com
+0 1 1 754 1 1517954777 0 0
+/
+msnbot-207-46-13-112.search.msn.com
+0 4 3 2282 3 1517821635 0 0
+-
+5-45-207-88.spider.yandex.com
+0 1 1 754 1 1517924345 0 0
+/
+141-8-142-62.spider.yandex.com
+0 2 2 1508 2 1517755631 0 0
+/
+msnbot-40-77-167-135.search.msn.com
+0 4 0 80 2 1517702848 0 0
+-
+msnbot-40-77-167-83.search.msn.com
+0 1 1 754 1 1517509648 0 0
+/
+crawl-66-249-64-22.googlebot.com
+0 7 5 3641 6 1517947881 0 0
+/
+jobqueue-listener.jobqueue.netcraft.com-ufe646131dc8549b9b83917a60c3a511au-digitalocean-2gb
+0 1 1 1630 1 1517600095 0 0
+/
+37-9-113-149.spider.yandex.com
+0 1 1 754 1 1517923645 0 0
+/
+msnbot-40-77-167-177.search.msn.com
+0 8 4 3096 6 1517598780 0 0
+/
+46.41.139.66
+0 1 1 1630 1 1517611532 0 0
+/
+209.99.141.206
+0 1 1 1630 1 1517444447 0 0
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+5-45-207-22.spider.yandex.com
+0 1 1 754 1 1517953207 0 0
+/
+37-9-113-83.spider.yandex.com
+0 1 1 754 1 1517924345 0 0
+/
+141-8-142-75.spider.yandex.com
+0 1 1 754 1 1517939656 0 0
+/
+37-9-113-162.spider.yandex.com
+0 3 3 2922 2 1517924473 0 0
+/
+msnbot-157-55-39-122.search.msn.com
+0 3 2 1528 3 1517949330 0 0
+/
+pd9faac7f.dip0.t-ipconnect.de
+0 1 1 1414 1 1517889980 0 0
+/INTRO/intro.htm
+ns3061207.ip-193-70-34.eu
+0 1 0 194 1 1517881914 0 0
+-
+37-9-113-80.spider.yandex.com
+0 1 1 754 1 1517939423 0 0
+/
+nugura.cs.usyd.edu.au
+0 3 3 2262 3 1517936200 0 0
+/
+5-45-207-54.spider.yandex.com
+0 2 2 1508 1 1517924487 0 0
+/
+static.66.30.201.138.clients.your-server.de
+0 6 6 14830 1 1517880802 0 0
+/INTRO/intro.htm
+msnbot-207-46-13-168.search.msn.com
+0 2 2 1432 0 0 0 0
+-
+msnbot-207-46-13-165.search.msn.com
+0 2 2 1516 1 1517890899 0 0
+/
+ec2-13-56-229-65.us-west-1.compute.amazonaws.com
+0 1 1 754 1 1517935695 0 0
+/
+crawl-66-249-64-20.googlebot.com
+0 1 1 952 0 0 0 0
+-
+pd9e8806d.dip0.t-ipconnect.de
+0 20 4 6104 2 1517939755 0 0
+/
+37-9-113-199.spider.yandex.com
+0 1 1 754 1 1517939655 0 0
+/
+5-45-207-65.spider.yandex.com
+0 1 1 754 1 1517923773 0 0
+/
+msnbot-157-55-39-194.search.msn.com
+0 3 2 1528 2 1517905178 0 0
+/
+crawl-66-249-64-29.googlebot.com
+0 2 2 1706 1 1517954780 0 0
+/
+17.110.165.10
+0 1 1 754 1 1517917877 0 0
+/
+hfo-d-6091.hfo.bisping.de
+0 6 6 68744 1 1517918262 0 0
+/
+msnbot-157-55-39-148.search.msn.com
+0 4 4 3016 4 1517951254 0 0
+/
+ec2-54-183-130-127.us-west-1.compute.amazonaws.com
+0 2 2 1508 2 1517925807 0 0
+/
+37-9-113-121.spider.yandex.com
+0 1 1 754 1 1517923646 0 0
+/
+static.246.237.251.148.clients.your-server.de
+0 1 1 1630 1 1517908710 0 0
+/
+m1.sims.beget.ru
+0 6 0 1254 1 1517957007 0 0
+-
+38.80.27.228
+0 1 1 1630 1 1517918281 0 0
+/
+pd9faaca3.dip0.t-ipconnect.de
+0 4 3 4262 2 1517929072 0 0
+/INTRO/intro.htm
+static.198.153.76.144.clients.your-server.de
+0 1 1 5008 1 1517908710 0 0
+/INTRO/intro.htm
+37-9-113-78.spider.yandex.com
+0 1 1 754 1 1517953207 0 0
+/
+141-8-183-28.spider.yandex.com
+0 1 1 754 1 1517923767 0 0
+/
+msnbot-157-55-39-31.search.msn.com
+0 1 1 585 0 0 0 0
+-
+141-8-142-17.spider.yandex.com
+0 1 1 754 1 1517939424 0 0
+/
+crawl-66-249-64-21.googlebot.com
+0 2 2 1516 1 1517905025 0 0
+/
+crawl-66-249-64-1.googlebot.com
+0 1 1 754 1 1517954777 0 0
+/
+5-45-207-88.spider.yandex.com
+0 1 1 754 1 1517924345 0 0
+/
+crawl-66-249-64-22.googlebot.com
+0 5 3 2302 5 1517947881 0 0
+/
+37-9-113-149.spider.yandex.com
+0 1 1 754 1 1517923645 0 0
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://uptime-us.net/bahrundbahrimmobilien.com
+1 1
+https://www.google.de
+0 1
+http://uptime-us.net/bahr-und-bahr.de
+1 2
+http://bahr-und-bahr.de/
+1 70
+http://www.bahr-und-bahr.de/
+1 5
+- (Direct Request)
+0 409
+http://www.bahrundbahrimmobilien.de/INTRO/introdaten/stylesheet_003.css
+1 4
+http://bahr-und-bahr.de/INTRO/intro.htm
+1 102
+http://www.bahr-und-bahr.de/bahr/
+1 7
+http://www.bahr-und-bahr.de/INTRO/intro.htm
+1 2
+https://www.google.de/
+0 7
+http://www.bahrundbahrimmobilien.de/
+1 20
+http://www.bahrundbahrimmobilien.de/INTRO/intro.htm
+1 28
+http://www.bahrundbahrimmobilien.com/
+1 8
+http://bahrundbahrimmobilien.de/
+1 2
+http://uptime-eu.net/bahr-und-bahr.de
+1 1
+http://bahr-und-bahr.de/INTRO/introdaten/stylesheet_003.css
+1 10
+http://uptime-as.net/bahrundbahrimmobilien.com
+1 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.133 Safari/534.16
+1 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:58.0) Gecko/20100101 Firefox/58.0
+1 36
+Opera/9.80 (Windows NT 5.1) Presto/2.12.388 Version/12.14
+1 2
+Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t13l; +http://researchscan.comsys.rwth-aachen.de)
+0 1
+Mozilla/5.0 (compatible; oBot/2.3.1; http://filterdb.iss.net/crawler/)
+0 2
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.4) Gecko/20100625 Gentoo Firefox/3.6.4
+1 5
+DomainCrawler/3.0 (info@domaincrawler.com; http://www.domaincrawler.com/bahr-und-bahr.de)
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/604.4.7 (KHTML, like Gecko)
+0 4
+Spider: Googlebot
+2 69
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+1 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/603.2.4 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.4
+1 1
+Mozilla/5.0 (X11; FreeBSD amd64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.65 Safari/535.11
+1 1
+SafeDNSBot (https://www.safedns.com/searchbot)
+0 5
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0
+1 64
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 5
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0
+1 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5 (Applebot/0.1; +http://www.apple.com/go/applebot)
+1 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; .NET CLR 1.1.4322; .NET CLR 1.0.3705; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+1 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+1 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+1 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)
+1 1
+Browser: MSIE
+2 8
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+1 57
+Browser: Firefox
+2 238
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:21.0) Gecko/20130331 Firefox/21.0
+1 2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 68
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+1 24
+Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+1 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; .NET CLR 1.1.4322)
+1 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:52.0) Gecko/20100101 Firefox/52.0
+1 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+1 12
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+1 2
+Safari/13604.4.7.1.3 CFNetwork/893.13.1 Darwin/17.3.0 (x86_64)
+1 32
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+1 21
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+1 6
+Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+1 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+1 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
+1 5
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+1 1
+%5CMozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1%5C
+1 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 BingPreview/1.0b
+1 21
+Mozilla/5.0 (compatible; spbot/5.0.3; +http://OpenLinkProfiler.org/bot )
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 6.0; de; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729)
+1 20
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0 Mobile/14C92 Safari/602.1
+1 7
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)
+1 3
+Mozilla/5.0 (compatible; SEOkicks-Robot; +http://www.seokicks.de/robot.html)
+0 18
+MobileSafari/604.1 CFNetwork/887 Darwin/17.0.0
+1 24
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.94 Safari/537.36
+1 1
+Mozilla/5.0 (Windows NT 5.1; rv:32.0) Gecko/20100101 Firefox/32.0
+1 7
+Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)
+0 5
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+1 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 46
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0
+1 1
+Mozilla/5.0 (compatible; ips-agent)
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+1 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+1 39
+Browser: Safari
+2 194
+=Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16
+1 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7
+1 1
+Mozilla/5.0 (iPad; CPU OS 11_0_3 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A432 Safari/604.1
+1 3
+Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/2.0; +http://go.mail.ru/help/robots)
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+1 47
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+1 23
+Browser: Opera
+2 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3
+1 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+1 7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.36 Safari/535.7
+1 1
+DomainCrawler/3.0 (info@domaincrawler.com; http://www.domaincrawler.com/bahrundbahrimmobilien.de)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.151 Safari/535.19
+1 1
+Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t12l; +http://researchscan.comsys.rwth-aachen.de)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/14A403 Safari/602.1
+1 3
+Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-J320F Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.2 Chrome/56.0.2924.87 Mobile Safari/537.36
+1 7
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
+15
+# -notfounderrors- 
+/phpinfo.php
+0
+/INTRO/introdaten/6.jpg
+38
+/intro/intro.htm
+1
+/html/immobilien_start.html
+2
+/apple-touch-icon-152x152-precomposed.png
+5
+/apple-touch-icon-152x152.png
+5
+/apple-touch-icon-precomposed.png
+21
+/apple-touch-icon.png
+21
+/misc/ajax.js
+4
+/
+0
+/typo/index6237.html
+0
+/typo/index6235.html
+0
+/sitemap.xml
+3
+/connectors/system/settings.php
+0
+/downloader/
+5
+# End Of Table - notfounderrors

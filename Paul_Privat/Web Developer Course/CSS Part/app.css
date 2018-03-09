@@ -1,0 +1,16 @@
+h1{
+  color : red;
+}
+
+li{
+  color : green;
+  border: 2px solid rgba(255, 0, 0, 0.5);
+}
+
+h4 {
+  color : purple;
+}
+
+body{
+  background: url(https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0364/8764/woodgrain_wb_shop_preview.png) ;
+}

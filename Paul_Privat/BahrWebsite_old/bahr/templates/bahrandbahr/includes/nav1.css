@@ -1,0 +1,120 @@
+/* Suckerfish-Style Navigation for CMSimple using sosf.php */
+
+#nav, #nav ul {
+	float: left;
+	list-style: none;
+	line-height: 1;
+	font-weight: normal;
+	padding: 0;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0em;
+	margin-left: 0;
+}
+#navcontainer {
+	height: 27px;
+	width: 970px; /* korr 960 */
+	margin-right: auto;
+	margin-left: -10px;/* auto */
+padding-left: 10px;/* loeschen */
+	background-color: #E8E8E8;
+	border: 1px solid #C0C0C0;
+	background-image: url(../sfnav/l2bar.png);
+	background-repeat: repeat-x;
+	margin-bottom:0;
+}
+.menulevel1 .roundend {
+
+}
+.menulevel2 .roundend {
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #a9a9a9;
+	width: 189px !important;
+}
+#nav a {
+	display: block;
+	color: #fff;
+	text-decoration: none;
+	padding-right: 8px;
+	padding-left: 8px;
+	line-height: 27px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+}
+.menulevel1 .nave a {
+	background-image: none;
+	color:red;
+}
+.menulevel2 .nave a {
+	background-image: url(../sfnav/l2button.png);
+}
+.menulevel1 a {
+	color: #000000;
+	padding-right: 10px;
+	padding-left: 10px;
+	background-image: url(../sfnav/fineline.gif);
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+.menulevel2 a {
+	background-image: url(../sfnav/l2button.png) !important;
+	color: #000000;
+	background-repeat: no-repeat;
+	background-position: left top;
+	width: 184px !important;
+}
+.menulevel2 a:hover {
+	background-image: url(../sfnav/l2button_hover.png) !important;
+}
+#nav ul ul #navactive { font-weight:bold;
+}
+#nav li {
+	float: left;
+	text-align: left;
+	padding: 0;
+}
+#nav #navactive {
+}
+#nav li ul {
+	position: absolute;
+	left: -999em;
+	height: auto;
+	width: 13.4em;
+	font-weight: normal;
+	margin: 0;
+}
+#nav li li {
+	padding-right: 1em;
+	width: 13.4em;
+	margin-left: -1px;
+}
+#nav ul ul {
+	z-index: 2 !important;
+	background-image: url(../sfnav/ul.png);
+	background-repeat: no-repeat;
+	width: 199px;
+}
+#nav ul ul ul {
+}
+#nav li ul a {
+	width: 10.1em;
+	color:#ad1d3e;
+}
+#nav li ul ul {
+	margin-top: -1.75em;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 10em;
+}
+#nav li:hover ul ul, #nav li:hover ul ul ul, #nav li.sfhover ul ul, #nav li.sfhover ul ul ul {
+	left: -999em;
+}
+#nav li:hover ul, #nav li li:hover ul, #nav li li li:hover ul, #nav li.sfhover ul, #nav li li.sfhover ul, #nav li li li.sfhover ul {
+	left: auto; min-height: 0;
+}
+#nav .doc{background-image: none;}
+#nav .docs{background-image: none;}
+#nav .sdoc{background-image: none;}
+#nav .sdocs{background-image: none;}

@@ -1,0 +1,19 @@
+body{
+  background: gold;
+}
+
+#juju{
+  color: pink;
+}
+
+/*#list{
+  border: 2px solid rgba(255, 0, 0, 0.5);
+} */
+
+ul{
+  border: 5px solid rgb(155, 0, 0);
+}
+
+li{
+  border-image-source: "onyx-woodgrain-fabric_large.jpg";
+}

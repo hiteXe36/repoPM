@@ -1,0 +1,10 @@
+belegter Speicherplatz:
+htdocs	: 25716
+pop	: 1005345
+	m01fbdee  -> 1946
+	m01f6cf5  -> 2893
+	m01f6cf3  -> 71515
+	m01f6cec  -> 924334
+	m01f7681  -> 30
+	m01f6cef  -> 4625
+chroot	: 0

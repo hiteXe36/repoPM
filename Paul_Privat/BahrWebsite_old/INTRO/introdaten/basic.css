@@ -1,0 +1,56 @@
+
+
+#slider {
+	width: 738px; /* important to be same as image width */
+	height: 310px; /* important to be same as image height */
+	position: relative; /* important */
+	overflow: hidden; /* important */
+	text-align:left;
+	font-size:0.7em; 
+}
+	
+* html #sliderContent {
+		margin-left: 0px;
+}
+html > body #sliderContent {
+	width: 738px;
+	height: 310px;
+	top: 0;
+margin-left: -40px;
+}
+
+.sliderImage {
+    float: left;
+    position: relative;
+	display: none;
+}
+.sliderImage span {
+    position: absolute;
+	font: 10px/15px Arial, Helvetica, sans-serif;
+    padding: 2px 13px 7px 20px;
+    width: 704px;
+    background-color:#666666;
+    filter: alpha(opacity=70);
+    -moz-opacity: 0.7;
+	-khtml-opacity: 0.7;
+    opacity: 0.7;
+    color: #fff;
+    display: none;
+	text-align:right;
+}
+.clear {
+	clear: both;
+}
+.sliderImage span strong {
+	font-size: 12px;
+}
+.top {
+	top: 0;
+	left: 0;
+}
+.bottom {
+	bottom: 0;
+    left: 0;
+}
+ul { list-style-type: none;}
+/*---------------------------------------------------------------end slider-------------------------------*/

@@ -1,0 +1,72 @@
+<?php
+/*
+##################################################################################
+# This template for cmsimple.dk was downloaded from www.cmsimple-styles.com      #
+##################################################################################
+*/
+include ($pth['folder']['template'].'includes/sosf.php');
+?>
+<?php 
+if ($cf['xhtml']['endtags'] == 'true') {
+echo '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">'."\n".
+'<html xmlns="http://www.w3.org/1999/xhtml">'."\n";
+} else {
+echo '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">'."\n".'<html>'."\n";} 
+?>
+<script src="PREV/jquery.js" type="text/javascript"></script>
+<script src="PREV/main.js" type="text/javascript"></script>
+<head>
+<?php echo head();?>
+<link href="slider/basic.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<script type="text/javascript">
+function oeffnefenster (url) {
+ fenster = window.open(url, "fenster1", "width=434,height=735,scrollbars=no,resizable=no,status=no,location=no");
+ fenster.focus();
+}
+</script>
+</head>
+<body id="bg" <?php echo onload();?>>
+<?php include ($pth['folder']['template'].'includes/preloader.php');?>
+<a name="TOP" id="TOP"></a>
+<!-- header -->
+<div id="header">
+<div id="sitetitle">
+<div id="sitetitlebox">
+<?php echo mailformlink();?></div>
+</div>
+<div id="searcher">
+<?php echo searchbox();?>
+</div>
+</div>
+<!-- mainstart -->
+<div id="part2">
+<!-- navigation -->
+  <div id="navcontainer">
+  
+    <div id="nav">
+      <?php echo sosfli($hc,'menulevel')?>
+    </div>
+	
+  </div>
+  
+<div id="locator">
+<div id="flags">
+<?php echo languagemenu();?>
+</div>
+Location: <?php echo locator();?></div>
+<!-- content -->
+<div id="maincontent">
+	<?php echo editmenu();?>
+	<?php echo content();?>
+        <?php echo submenu();?>
+</div>
+</div>
+<!-- sidebar -->
+<div id="sidearea">
+</div>
+<!--<div style="font-size:0.7em; color:#999999; position:fixed; bottom:5px; right:5px;"><?php echo loginlink();?></div>-->
+<!--<a style="font-size:0.7em; color:#999999; position:fixed; bottom:5px; right:5px;" href="http://www.vdesign.de">Webdesign by VDESIGN</a>-->
+</body>
+</html>
